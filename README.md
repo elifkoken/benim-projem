@@ -1,8 +1,12 @@
 # Elif Köken
 
-Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Bu repo Git ve GitHub öğrenme amaçlıdır.
+Ankara Bilim Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
 
 ## Hedeflerim
-- Git öğrenmek ✅
-- GitHub kullanmak ✅
-- README yazmak ✅
+- Git öğrenmek 
+- GitHub kullanmak 
+- README yazmak
+  
+## İletişim
+- Email: kokenelif3@gmail.com
+- GitHub: github.com/elifkoken
